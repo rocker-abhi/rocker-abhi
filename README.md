@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
-- 🌱 I’m currently learning **Project architecture , react , django**
+- 🌱 I’m currently learning **System Design, Project Architecture , react , django**
 
 - 💬 Ask me about **react, vue, gsap**
 
