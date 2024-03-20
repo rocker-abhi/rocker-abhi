@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design, Project Architecture , react , django**
 
-- 💬 Ask me about **react, vue, gsap**
+- 💬 Ask me about **django rest framework, django, python **
 
 - 📫 How to reach me **abhishekofficial12345@gmail.com**
 
