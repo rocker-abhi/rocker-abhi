@@ -178,40 +178,6 @@ fun_fact: "I'm not lazy, I'm in energy-saving mode 🔋"
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 &nbsp;GitHub Trophies
-
-<a href="https://github.com/rocker-abhi">
-  <img src="https://github-profile-trophy.vercel.app/?username=rocker-abhi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🐍 &nbsp;Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rocker-abhi/rocker-abhi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rocker-abhi/rocker-abhi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rocker-abhi/rocker-abhi/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- CONNECT -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
