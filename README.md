@@ -45,15 +45,16 @@ located_in: India 🇮🇳
 current_role: Full Stack Developer & ML Engineer
 
 fields_of_interest:
-  - Backend Architecture
   - Microservices & System Design
+  - Backend Architecture (FastAPI, Flask)
   - Machine Learning & Deep Learning
   - Full Stack Web Development
 
 ask_me_about:
-  - Python • REST APIs • Microservices
+  - FastAPI • Flask • REST APIs • gRPC
+  - Docker • Kafka • Microservices
+  - React • TypeScript • PostgreSQL
   - Machine Learning • Data Science
-  - React • TypeScript • System Design
 
 contact: abhishekofficial12345@gmail.com
 fun_fact: "I'm not lazy, I'm in energy-saving mode 🔋"
@@ -73,41 +74,56 @@ fun_fact: "I'm not lazy, I'm in energy-saving mode 🔋"
 
 ### 💻 Languages
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,html,css&theme=dark&perline=7" alt="Languages"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd343" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
 </p>
 
-### 🚀 Backend & Frameworks
+### 🚀 Backend Frameworks
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,dotnet,react,vue,redux,bootstrap,tailwind&theme=dark&perline=8" alt="Frameworks"/>
-  </a>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic"/>
+  <img src="https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
-### 🗄️ Databases & DevOps
+### ⚛️ Frontend
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,git,github,linux&theme=dark&perline=8" alt="Databases & DevOps"/>
-  </a>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</p>
+
+### 🗄️ Databases & Messaging
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
+</p>
+
+### 🐳 DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ### 🧠 ML / Data Science
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark&perline=4" alt="ML"/>
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117" alt="Jupyter"/>
-</p>
-
-### 🔧 Tools & Workspace
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark&perline=5" alt="Tools"/>
-  </a>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
 </p>
 
 </div>
@@ -124,14 +140,14 @@ fun_fact: "I'm not lazy, I'm in energy-saving mode 🔋"
 
 | &nbsp; | Project | Description | Tech |
 |:---:|:---|:---|:---:|
-| 📚 | [**Library Management System**](https://github.com/rocker-abhi/Library-Management-System) | Microservices architecture with JWT auth, RESTful APIs & Docker | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| 📸 | [**Instagram Clone**](https://github.com/rocker-abhi/Instagram-Clone) | Full-featured social media clone with posts, stories & real-time features | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| 🛒 | [**E-Commerce Website**](https://github.com/rocker-abhi/Ecommerce-Website) | Production-grade e-commerce platform with modern architecture | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| 🚗 | [**Car Price Prediction**](https://github.com/rocker-abhi/Car-Price-Prediction-ML) | End-to-end ML pipeline with React frontend & Flask REST API | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) |
+| 📚 | [**Library Management System**](https://github.com/rocker-abhi/Library-Management-System) | Microservices with JWT auth, Nginx, Redis & Docker Compose | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| 📸 | [**Instagram Clone**](https://github.com/rocker-abhi/Instagram-Clone) | Microservices with FastAPI, Kafka, gRPC, MinIO & real-time chat | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat-square&logo=google&logoColor=white) |
+| 🛒 | [**E-Commerce Website**](https://github.com/rocker-abhi/Ecommerce-Website) | Full-stack with Flask + SQLAlchemy backend & React TypeScript frontend | ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| 🚗 | [**Car Price Prediction**](https://github.com/rocker-abhi/Car-Price-Prediction-ML) | End-to-end ML pipeline with React frontend & Flask REST API | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | 🎬 | [**Movie Recommendation**](https://github.com/rocker-abhi/Movie_Recommendation_System_ML) | Content-based recommendation engine using ML algorithms | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![scikit](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
-| 🎭 | [**IMDB Sentiment Analysis**](https://github.com/rocker-abhi/IMDB_sentiment_DL) | Deep learning NLP model for movie review sentiment classification | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 📊 | [**Zomato Sales Analysis**](https://github.com/rocker-abhi/Zomato-Sales-Analysis) | Data analysis & visualization of Zomato restaurant data | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| 🌐 | [**Weekend Website**](https://github.com/rocker-abhi/Weekend-Website) | Modern single-page website built with React & Tailwind | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| 🎭 | [**IMDB Sentiment Analysis**](https://github.com/rocker-abhi/IMDB_sentiment_DL) | Deep learning NLP model for sentiment classification | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 📊 | [**Zomato Sales Analysis**](https://github.com/rocker-abhi/Zomato-Sales-Analysis) | Data analysis & visualization of restaurant data | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| 🌐 | [**Weekend Website**](https://github.com/rocker-abhi/Weekend-Website) | Modern SPA built with React, Vite & Tailwind CSS | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 
 </div>
 
