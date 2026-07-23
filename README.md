@@ -50,16 +50,12 @@ fields_of_interest:
   - Machine Learning & Deep Learning
   - Full Stack Web Development
 
-currently_building:
-  - 🛒 E-Commerce Platform (TypeScript)
-  - 📸 Instagram Clone (Python)
-  - 📚 Library Management System (Microservices)
+ask_me_about:
+  - Python • REST APIs • Microservices
+  - Machine Learning • Data Science
+  - React • TypeScript • System Design
 
-currently_learning:
-  - ☕ Java (OOP & Design Patterns)
-  - 🏗️ System Design & Architecture
-  - ⚛️ React & Modern Frontend
-
+contact: abhishekofficial12345@gmail.com
 fun_fact: "I'm not lazy, I'm in energy-saving mode 🔋"
 ```
 
@@ -126,33 +122,16 @@ fun_fact: "I'm not lazy, I'm in energy-saving mode 🔋"
 
 <div align="center">
 
-<a href="https://github.com/rocker-abhi/Library-Management-System">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rocker-abhi&repo=Library-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=ec4899&text_color=c9d1d9" alt="Library Management System"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rocker-abhi/Instagram-Clone">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rocker-abhi&repo=Instagram-Clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=ec4899&text_color=c9d1d9" alt="Instagram Clone"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/rocker-abhi/Ecommerce-Website">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rocker-abhi&repo=Ecommerce-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=ec4899&text_color=c9d1d9" alt="Ecommerce Website"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rocker-abhi/Car-Price-Prediction-ML">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rocker-abhi&repo=Car-Price-Prediction-ML&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=ec4899&text_color=c9d1d9" alt="Car Price Prediction"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/rocker-abhi/Movie_Recommendation_System_ML">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rocker-abhi&repo=Movie_Recommendation_System_ML&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=ec4899&text_color=c9d1d9" alt="Movie Recommendation"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rocker-abhi/IMDB_sentiment_DL">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rocker-abhi&repo=IMDB_sentiment_DL&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=ec4899&text_color=c9d1d9" alt="IMDB Sentiment DL"/>
-</a>
+| &nbsp; | Project | Description | Tech |
+|:---:|:---|:---|:---:|
+| 📚 | [**Library Management System**](https://github.com/rocker-abhi/Library-Management-System) | Microservices architecture with JWT auth, RESTful APIs & Docker | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| 📸 | [**Instagram Clone**](https://github.com/rocker-abhi/Instagram-Clone) | Full-featured social media clone with posts, stories & real-time features | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| 🛒 | [**E-Commerce Website**](https://github.com/rocker-abhi/Ecommerce-Website) | Production-grade e-commerce platform with modern architecture | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| 🚗 | [**Car Price Prediction**](https://github.com/rocker-abhi/Car-Price-Prediction-ML) | End-to-end ML pipeline with React frontend & Flask REST API | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) |
+| 🎬 | [**Movie Recommendation**](https://github.com/rocker-abhi/Movie_Recommendation_System_ML) | Content-based recommendation engine using ML algorithms | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![scikit](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| 🎭 | [**IMDB Sentiment Analysis**](https://github.com/rocker-abhi/IMDB_sentiment_DL) | Deep learning NLP model for movie review sentiment classification | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 📊 | [**Zomato Sales Analysis**](https://github.com/rocker-abhi/Zomato-Sales-Analysis) | Data analysis & visualization of Zomato restaurant data | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| 🌐 | [**Weekend Website**](https://github.com/rocker-abhi/Weekend-Website) | Modern single-page website built with React & Tailwind | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 
 </div>
 
@@ -166,17 +145,9 @@ fun_fact: "I'm not lazy, I'm in energy-saving mode 🔋"
 
 <div align="center">
 
-<!-- STATS CARDS -->
-<a href="https://github.com/rocker-abhi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rocker-abhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&ring_color=ec4899&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocker-abhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
 <!-- STREAK -->
 <a href="https://github.com/rocker-abhi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rocker-abhi&theme=tokyonight_duo&hide_border=true&background=0d1117&stroke=8b5cf6&ring=ec4899&fire=ec4899&currStreakLabel=8b5cf6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6366f1" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=rocker-abhi&theme=tokyonight_duo&hide_border=true&background=0d1117&stroke=8b5cf6&ring=ec4899&fire=ec4899&currStreakLabel=8b5cf6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6366f1" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
