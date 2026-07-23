@@ -186,7 +186,7 @@ fun_fact: "I'm not lazy, I'm in energy-saving mode 🔋"
 ## 🏆 &nbsp;GitHub Trophies
 
 <a href="https://github.com/rocker-abhi">
-  <img src="https://github-profile-trophy.vercel.app/?username=rocker-abhi&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rocker-abhi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </a>
 
 </div>
